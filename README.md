@@ -35,4 +35,8 @@ Design and implement an end-to-end data engineering pipeline using Databricks La
 
 - Reduces manual effort while improving platform agility
 
-The solution must be implemented using the Databricks Free Edition, demonstrating how modern, production-grade data engineering practices can be learned and applied without infrastructure complexity.    
+The solution must be implemented using the Databricks Free Edition, demonstrating how modern, production-grade data engineering practices can be learned and applied without infrastructure complexity. 
+
+
+# Project Archetecture
+Steps to follow
