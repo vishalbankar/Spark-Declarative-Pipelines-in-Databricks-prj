@@ -1,8 +1,11 @@
+# import required libraries
 from pyspark import pipelines as dp
 from pyspark.sql import functions as F
 
+# confiure the parameters
 start_date = spark.conf.get("start_date")
 end_date = spark.conf.get("end_date")
+
 
 
 @dp.materialized_view(
