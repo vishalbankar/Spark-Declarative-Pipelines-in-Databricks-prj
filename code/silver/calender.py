@@ -19,6 +19,8 @@ end_date = spark.conf.get("end_date")
         "delta.autoOptimize.autoCompact": "true",
     },
 )
+
+# calender function to have all reqired date dimentions table saved as calender table (materialized view)
 def calendar():
     df = spark.sql(
         f"""
