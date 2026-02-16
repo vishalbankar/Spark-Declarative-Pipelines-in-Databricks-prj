@@ -39,4 +39,7 @@ The solution must be implemented using the Databricks Free Edition, demonstratin
 
 
 # Project Archetecture
+
+<img width="1686" height="940" alt="pipeline_graph_with_full_load" src="https://github.com/user-attachments/assets/51838929-2f0d-46dd-9a10-da91cf9668cc" />
+
 Steps to follow
